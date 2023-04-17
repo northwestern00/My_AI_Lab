@@ -1,3 +1,4 @@
+"""
 Generator:    
 The encoder-decoder architecture consists of:
 encoder:
