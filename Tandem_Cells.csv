@@ -1,0 +1,8 @@
+Wafer,Tunnel Junction,CH4,Annealing Method,Efficiency,Voc,Jsc,Fill Factor
+P,1,1,Double ,18.5,693,34.8,75.5
+P,1,1,Co-anneal,13,650,32.4,61.6
+P,1,0,Double ,11.9,558,32.5,66.6
+P,0,0,-,20.9,689,38.5,78.6
+N,1,1,Double ,18.2,695,35,74.6
+N,1,1,Co-anneal,13.1,657,30.7,64.7
+N,0,0,-,20,684,37.5,78
